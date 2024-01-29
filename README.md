@@ -1,7 +1,11 @@
 <p align="center">
-# Youtube Views Prediction
+    <h1 align="center">Youtube Views Prediction</h1>
+</p>
 
-```Data 200```
+<p align="center">
+    <em><code>Data 200</code></em>
+</p>
+
 
 ![License](https://img.shields.io/badge/license-not_specified-green.svg)
 
@@ -15,7 +19,7 @@
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white&labelColor=%23F37626)](https://jupyter.org/)
 
-</p>
+
 
 ## Overview
 
