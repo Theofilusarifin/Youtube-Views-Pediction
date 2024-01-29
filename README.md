@@ -6,6 +6,7 @@
     <em><code>Data 200</code></em>
 </p>
 
+<p align="center">
 
 ![License](https://img.shields.io/badge/license-not_specified-green.svg)
 
@@ -19,6 +20,7 @@
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white&labelColor=%23F37626)](https://jupyter.org/)
 
+</p>
 
 
 ## Overview
