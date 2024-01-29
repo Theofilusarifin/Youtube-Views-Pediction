@@ -1,4 +1,4 @@
-
+<p align="center">
 # Youtube Views Prediction
 
 ```Data 200```
@@ -15,6 +15,7 @@
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white&labelColor=%23F37626)](https://jupyter.org/)
 
+</p>
 
 ## Overview
 
