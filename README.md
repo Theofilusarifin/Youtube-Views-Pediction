@@ -24,6 +24,8 @@
 
 The YouTube View Prediction Project aims to develop a machine learning model capable of forecasting the potential number of views a video might receive on the YouTube platform. By leveraging various factors such as title, likes, comments, description, and other relevant elements, this model provides valuable insights for companies to optimize their content and marketing strategies.
 
+[Documentation Details](https://github.com/Theofilusarifin/Youtube-Views-Pediction/blob/main/Documentation.pdf)
+
 ## Objective
 Develop machine learning model to predict the number of views of a video on the YouTube platform.
 
